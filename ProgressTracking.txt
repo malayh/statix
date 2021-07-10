@@ -1,0 +1,38 @@
+
+- Why?
+    - I am trying to change my life style to be healthy. So I want 
+    a) someone to hold me accountable
+    b) Track my progress and various markers that indicates I am actually making progress
+
+- What?
+    - Statix is a app that will promt the user to answer simple question throught the day. The data will
+    be used to measure wellness and the prompt will keep me accountable
+
+- How?
+    - Phase 1:
+        - Build the MVP feature set
+        - Do wireframming
+
+    - Phase 2:
+        - Implement UI and Navigation
+
+    - Phase 3:
+        - Add functionalities to the UI
+
+    - Phase 4:
+        - Build the backend
+        - Add Auth and cloud synch
+
+
+
+- TODO: Phase 1
+    - Write featureset
+
+- Doing: Phase 1
+    - Write featureset : 10th July
+
+- Done: Phase 1
+
+
+- Journal
+    - 10th July
