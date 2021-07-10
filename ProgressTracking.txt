@@ -27,6 +27,7 @@
 
 - TODO: Phase 1
     - Write featureset
+    - Make wireframes for screens
 
 - Doing: Phase 1
     - Write featureset : 10th July
@@ -35,4 +36,8 @@
 
 
 - Journal
+    - 11th July
+        -
     - 10th July
+        - Initiated github repo
+        - Wrote features in `Features.txt`

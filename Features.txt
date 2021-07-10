@@ -1,0 +1,48 @@
+- User would be able to create a `Tracker`
+- Properties of Tracker
+    - Title of it, what matric is it reading
+    - Data type: Is it a timestamp or a mood score or a boolean etc.
+    - Data, actial data
+    - When will it propmt for input, time of the day and day of week
+    - Category/Template: A type of Tracker from limiter numbe of choices. Which will make data analysis easy 
+    - (Question) Can a tracker repeat or I need to create different Tracker of repeating events
+    - Clingy ness of prompt: How annoying is the prompt
+
+- CTAs
+    - Create Tracker
+    - Input some data for a tracker
+    - View set of trackers that happened in the past
+    - View set of upcomming trackers
+    - Delete tracker
+    - Undelete tracker
+    - Edit tracker
+        - Timing, title and category: Not data type
+
+- Stories
+    - There was prompt asking for "Mood score" as 12:30 pm. User clicked on that prompt and will be taken to screen
+    where he can enter the value.
+    
+    - There was a prompt for "How many minutes did you exercise today" at 7 PM. Which was a clingy prompt. So
+    when the user cleared the notification, more notification will appear untill the value is entered.
+
+    - User wanter to edit the timing of a given tracker. So he opened the app, went to `Create/Edit Tracker` page and
+    clicked on the Tracker, made the change than saved his changes
+
+    - User cannot make change to any upcomming or in-past Trackers.
+        - A tracker is upcomming if it is in a future date
+        - A tracker in in the past if its value has been entered.
+
+    - User want to see a values of past or upcomming Trackers. In the `Home` screen he can pick the desired date from date picker
+    and see all the tracker and their values.
+        - If he picks a date of 9th of July, 2021, and there was a tracker created at 10th of July. So that tracker should not be visible
+        on 9th of July date
+
+    - User wants to delete a tracker. He can go to `Create/Edit Tracker` page and select the tracker and press delete. It will promt him to confirm.
+    Once confiremed. That tracker will no longer promoted in the future.
+    
+    - User wants to undelete a tracker.He can scole to the bottom of `Create/Edit Tracker` page and click of `See deleted trackers` CTA.
+        - If you delete a daily prompting tracker on 1st of July and undelete on 10th of July. The values for that tracker will be set to null
+        from 2nd of July to 9th of July
+
+    - User did not put data for a tracker for more than 24 hours. It will stop generating promts and put null value for it 
+    
