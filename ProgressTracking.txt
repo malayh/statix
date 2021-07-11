@@ -30,14 +30,16 @@
     - Make wireframes for screens
 
 - Doing: Phase 1
-    - Write featureset : 10th July
+    - Make wireframes for screens: 11th July
 
 - Done: Phase 1
+    - Write featureset for v1: 10th July
 
 
 - Journal
     - 11th July
-        -
+        - Started working on wireframes
+
     - 10th July
         - Initiated github repo
         - Wrote features in `Features.txt`
