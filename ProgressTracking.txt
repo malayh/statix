@@ -26,13 +26,23 @@
 
 
 - TODO: Phase 1
-    - Write featureset
-    - Make wireframes for screens
+    - Implement screens
+        - Implement navigation
+        - Implement screens
+        - Implement popups, and inputs.
+    - Implement notification
+    - Implement sqlite storage and serialize
+    - Implement graphing (?)
+    - Implement user screen
 
 - Doing: Phase 1
-    - Make wireframes for screens: 11th July
+    - Implement screens : 14th July
 
 - Done: Phase 1
+    - Write featureset
+    - Make wireframes for screens
+    - Finalize UI
+    - Make wireframes for screens: 11th July - 14th July: For basic screens
     - Write featureset for v1: 10th July
 
 
