@@ -37,6 +37,7 @@
 
 - Doing: Phase 1
     - Implement screens : 14th July
+        - Make Home page : 25th July - 
 
 - Done: Phase 1
     - Write featureset
@@ -47,6 +48,10 @@
 
 
 - Journal
+    - 25th July
+        - Re created statix app
+        - 
+
     - 11th July
         - Started working on wireframes
 
